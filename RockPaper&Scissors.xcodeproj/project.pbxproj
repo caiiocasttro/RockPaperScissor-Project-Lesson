@@ -14,6 +14,7 @@
 		C97BD8FE28ABB0A400C3FA77 /* RockPaper_ScissorsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97BD8FD28ABB0A400C3FA77 /* RockPaper_ScissorsTests.swift */; };
 		C97BD90828ABB0A400C3FA77 /* RockPaper_ScissorsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97BD90728ABB0A400C3FA77 /* RockPaper_ScissorsUITests.swift */; };
 		C97BD90A28ABB0A400C3FA77 /* RockPaper_ScissorsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97BD90928ABB0A400C3FA77 /* RockPaper_ScissorsUITestsLaunchTests.swift */; };
+		C97BD91728ABB42D00C3FA77 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C97BD91628ABB42D00C3FA77 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		C97BD90328ABB0A400C3FA77 /* RockPaper&ScissorsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RockPaper&ScissorsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C97BD90728ABB0A400C3FA77 /* RockPaper_ScissorsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaper_ScissorsUITests.swift; sourceTree = "<group>"; };
 		C97BD90928ABB0A400C3FA77 /* RockPaper_ScissorsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RockPaper_ScissorsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C97BD91628ABB42D00C3FA77 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				C97BD8EC28ABB09F00C3FA77 /* RockPaper_ScissorsApp.swift */,
 				C97BD8EE28ABB09F00C3FA77 /* ContentView.swift */,
+				C97BD91628ABB42D00C3FA77 /* HomeView.swift */,
 				C97BD8F028ABB0A300C3FA77 /* Assets.xcassets */,
 				C97BD8F228ABB0A300C3FA77 /* Preview Content */,
 			);
@@ -257,6 +260,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C97BD91728ABB42D00C3FA77 /* HomeView.swift in Sources */,
 				C97BD8EF28ABB09F00C3FA77 /* ContentView.swift in Sources */,
 				C97BD8ED28ABB09F00C3FA77 /* RockPaper_ScissorsApp.swift in Sources */,
 			);
